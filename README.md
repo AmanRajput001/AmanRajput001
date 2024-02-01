@@ -1,43 +1,66 @@
-<h1 align="center">Hi there! 👋 I'm Aman Rajput</h1>
-<h3 align="center">Aspiring MCA Student | Backend Developer | Machine Learning Enthusiast</h3>
+<!DOCTYPE html>
+<html lang="en">
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanrajput001" alt="GitHub Trophies" /></a>
-</p>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aman Rajput - Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
 
-🌱 I'm currently enhancing my problem-solving skills with a free Data Structures and Algorithms course [here](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ).
+<body>
+    <header>
+        <h1>Hi there! 👋 I'm Aman Rajput</h1>
+        <h3>Aspiring MCA Student | Backend Developer | Machine Learning Enthusiast</h3>
+    </header>
 
-👯 I have collaborated on an interesting project: [AHP Inter College](https://ahpintercollege.in/) with my friend [Vishal](https://github.com/vishalvky007).
+    <section class="content">
+        <div class="skills">
+            <h3>Languages and Tools:</h3>
+            <p> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" />
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" />
+                <!-- Add more icons here -->
+            </p>
+        </div>
 
-📫 Reach me at: [amanrajput01102002@gmail.com](mailto:amanrajput01102002@gmail.com)
+        <div class="courses">
+            <h3>Currently Learning:</h3>
+            <p>
+                Enhancing problem-solving skills with a free <a href="https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ" target="_blank">Data Structures and Algorithms course</a>.
+            </p>
+        </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.instagram.com/rajput.aman001" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://leetcode.com/amanrajput001/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-</p>
+        <div class="projects">
+            <h3>Projects:</h3>
+            <ul>
+                <li><a href="https://ahpintercollege.in/" target="_blank">AHP Inter College</a> - Collaborative project with <a href="https://github.com/vishalvky007" target="_blank">Vishal</a></li>
+                <!-- Add more projects here -->
+            </ul>
+        </div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-</p>
+        <div class="connect">
+            <h3>Connect with me:</h3>
+            <p>
+                <a href="https://www.instagram.com/rajput.aman001" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" /></a>
+                <a href="https://leetcode.com/amanrajput001/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" /></a>
+            </p>
+        </div>
 
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanrajput001&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+        <div class="github-stats">
+            <h3>Github Stats:</h3>
+            <p>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amanrajput001&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+            </p>
+            <p>
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanrajput001" alt="GitHub Streak" />
+            </p>
+        </div>
+    </section>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amanrajput001&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+    <footer>
+        <p>📫 Reach me at: <a href="mailto:amanrajput01102002@gmail.com">amanrajput01102002@gmail.com</a></p>
+    </footer>
+</body>
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanrajput001" alt="GitHub Streak" />
-</p>
+</html>
