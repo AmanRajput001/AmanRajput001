@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Aman Rajput</h1>
 <h3 align="center">Aspiring MCA Student | Backend Developer | Machine Learning Enthusiast</h3>
 
-🌱 I'm currently working on my group project "<i>AI Powered Virtual Assistant For Visually Impaired</i>" for MCA .
+🧑🏻‍💻 I'm currently working on my group project "<i>AI Powered Virtual Assistant For Visually Impaired</i>" for MCA .
              Check it out [here](https://github.com/AmanRajput001/AI-Assistant-For-Visually-Impaired/tree/main/AIAssistentForVisuallyImapired).
 
 🌱 I'm also enhancing my problem-solving skills with a free Data Structures and Algorithms course. Find it [here](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ).
